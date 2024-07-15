@@ -1,5 +1,4 @@
-# READ ME: 
-# Internship Project Connecting Services with ServisHub
+# READ ME: Internship Project Connecting Services with ServisHub
 
 ServisHub is an online platform designed to simplify modern life's complexities. It allows users to easily find services such as cleaning, transportation, renovation, event planning, and education. ServisHub focuses on quality, security, and user satisfaction, making it more than just a search engine.
 
